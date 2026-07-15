@@ -93,57 +93,6 @@ The following data cleaning steps were performed:
 
 ---
 
-# 📈 Dashboard Visualizations
-
-### KPI Cards
-
-- Total Customers
-- Total Churn Customers
-- Active Customers
-- Churn Rate
-- Monthly Revenue Lost
-
-### Donut Chart
-
-**Customer Churn Distribution**
-
-Displays the percentage of churned and retained customers.
-
-### Clustered Bar Chart
-
-**Churn by Contract Type**
-
-Compares churn among:
-
-- Month-to-Month
-- One Year
-- Two Year
-
-### Stacked Bar Chart
-
-**Churn by Internet Service**
-
-Analyzes churn across:
-
-- Fiber Optic
-- DSL
-- No Internet Service
-
-### Revenue Lost Bar Chart
-
-Shows revenue lost because of customer churn across different contract types.
-
-### Tenure Group Analysis
-
-Analyzes churn rate for:
-
-- New Customers
-- Early Customers
-- Loyal Customers
-- Long-Term Customers
-
----
-
 # 🔍 Key Insights
 
 - Month-to-Month customers have the highest churn rate.
@@ -173,12 +122,8 @@ Analyzes churn rate for:
 # 📷 Dashboard Preview
 
 
-![Customer Churn Dashboard](![Uploading Screenshot 2026-07-02 202717.png…]())
-
-
-
----
-
+![Customer Churn Dashboard](<img width="1210" height="677" alt="Screenshot 2026-07-02 202717" src="https://github.com/user-attachments/assets/93e66665-553f-4e79-976a-495db7696cc8" />
+)
 
 ---
 
@@ -208,15 +153,6 @@ This dashboard enables organizations to:
 # 👨‍💻 Author
 
 **Harsh Chaurasiya**
-
-### Skills
-
-- Power BI
-- SQL
-- Excel
-- Python
-- Data Analysis
-- Dashboard Development
 
 ---
 
